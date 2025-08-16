@@ -16,7 +16,6 @@
     "noImplicitAny": true,
     "noImplicitOverride": true,
     "strictNullChecks": true,
-    "traceResolution": true,
     "plugins": [
       {
         "name": "next"
